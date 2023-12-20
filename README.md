@@ -1,0 +1,1 @@
+En este repositorio se llevó a cabo la parte técnica de un experimento de física. El mencionado consistió en obtener datos de un sensor de aproximación por ultrasonido para poder 'trackear' un objeto deslizante, y en base a los datos obtenidos pudimos estimar coeficientes de rozamiento entre distintas superficies.
